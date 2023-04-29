@@ -1,0 +1,6 @@
+크롬드라이버다운.py 실행해서 '설치되면' 크롬드라이버를 같은파일에 내놓기
+
+config.py 에 정보입력 및 main.py 실행
+
+언어 = python
+필수모듈 = discord, bs4, asyncio, datetime, requests, urllib, selenium
