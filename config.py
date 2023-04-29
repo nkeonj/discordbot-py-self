@@ -1,5 +1,5 @@
 접두사 = "^"
-사람토큰 = "NjkyMzIwMDQ1NjAyMTc3MDU1.G_eTik.ZOyB4ny4aV6mWLUQgP1U28igSuGZo6i9P_49Fo"
+사람토큰 = "NjkyMzIwMDQ1NjAyMTc3MDU1.GkiYn1.Ki4I-fUoZWlmKFE8uYzgn6H2sGgiLi13Qk6m2c"
 상메무한반복 = False #True or False
 상메1 = '아로 디자인 홍보'
 상메2 = '아로 디자인 서버 입장'
